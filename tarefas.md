@@ -1,10 +1,10 @@
 | Nº | Nome da Pessoa                                   | Grupo               | O que está fazendo                                   |
 |----|--------------------------------------------------|---------------------|------------------------------------------------------|
 | 14 | Isabelly Sampaio Antunes                         | Gerente do Projeto  |                                                      |
-| 19 | Júlia de Almeida dos Santos                      | Comunicação         |                                                      |
-| 20 | Khemeronn Sophia Freitas Faziolato               | Comunicação         |                                                      |
-| 28 | Maria Victoria Espindola de Abreu Figueira Rocha | Comunicação         |                                                      |
-| 35 | Ruan Gonçalves Gustavo                           | Comunicação         |                                                      |
+| 19 | Júlia de Almeida dos Santos                      | Comunicação         |Está resolvendo as inspirações, organização e decoração do evento  |
+| 20 | Khemeronn Sophia Freitas Faziolato               | Comunicação         |Participou da criação da história e id do jogo/evento e também está resolvendo a divulgação |
+| 28 | Maria Victoria Espindola de Abreu Figueira Rocha | Comunicação         |Participou da criação da história e id do jogo/evento, toda a base da hostória ela que encontrou |
+| 35 | Ruan Gonçalves Gustavo                           | Comunicação         |Está resolvendo as inspirações, organização, decoração do evento e divulgação |
 | 1  | Ana Carolyna de Marins da Mota                   | Combate             |                                                      |
 | 8  | Caio Cabral Araujo                               | Combate             |                                                      |
 | 11 | Davi Fernandes de Oliveira Moreira               | Combate             |                                                      |
